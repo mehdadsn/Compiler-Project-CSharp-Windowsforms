@@ -1,0 +1,22 @@
+D:\learn-programs\CSharp\MathCompiler\MathCompiler\bin\Debug\MathCompiler.exe.config
+D:\learn-programs\CSharp\MathCompiler\MathCompiler\bin\Debug\MathCompiler.exe
+D:\learn-programs\CSharp\MathCompiler\MathCompiler\bin\Debug\MathCompiler.pdb
+D:\learn-programs\CSharp\MathCompiler\MathCompiler\obj\Debug\MathCompiler.csproj.AssemblyReference.cache
+D:\learn-programs\CSharp\MathCompiler\MathCompiler\obj\Debug\MathCompiler.csproj.SuggestedBindingRedirects.cache
+D:\learn-programs\CSharp\MathCompiler\MathCompiler\obj\Debug\MathCompiler.Form1.resources
+D:\learn-programs\CSharp\MathCompiler\MathCompiler\obj\Debug\MathCompiler.Properties.Resources.resources
+D:\learn-programs\CSharp\MathCompiler\MathCompiler\obj\Debug\MathCompiler.csproj.GenerateResource.cache
+D:\learn-programs\CSharp\MathCompiler\MathCompiler\obj\Debug\MathCompiler.csproj.CoreCompileInputs.cache
+D:\learn-programs\CSharp\MathCompiler\MathCompiler\obj\Debug\MathCompiler.exe
+D:\learn-programs\CSharp\MathCompiler\MathCompiler\obj\Debug\MathCompiler.pdb
+D:\Courses\archive\ترم ۴۰۰۲\آز کامپایلر\MathCompiler\MathCompiler\bin\Debug\MathCompiler.exe.config
+D:\Courses\archive\ترم ۴۰۰۲\آز کامپایلر\MathCompiler\MathCompiler\bin\Debug\MathCompiler.exe
+D:\Courses\archive\ترم ۴۰۰۲\آز کامپایلر\MathCompiler\MathCompiler\bin\Debug\MathCompiler.pdb
+D:\Courses\archive\ترم ۴۰۰۲\آز کامپایلر\MathCompiler\MathCompiler\obj\Debug\MathCompiler.csproj.AssemblyReference.cache
+D:\Courses\archive\ترم ۴۰۰۲\آز کامپایلر\MathCompiler\MathCompiler\obj\Debug\MathCompiler.csproj.SuggestedBindingRedirects.cache
+D:\Courses\archive\ترم ۴۰۰۲\آز کامپایلر\MathCompiler\MathCompiler\obj\Debug\MathCompiler.Form1.resources
+D:\Courses\archive\ترم ۴۰۰۲\آز کامپایلر\MathCompiler\MathCompiler\obj\Debug\MathCompiler.Properties.Resources.resources
+D:\Courses\archive\ترم ۴۰۰۲\آز کامپایلر\MathCompiler\MathCompiler\obj\Debug\MathCompiler.csproj.GenerateResource.cache
+D:\Courses\archive\ترم ۴۰۰۲\آز کامپایلر\MathCompiler\MathCompiler\obj\Debug\MathCompiler.csproj.CoreCompileInputs.cache
+D:\Courses\archive\ترم ۴۰۰۲\آز کامپایلر\MathCompiler\MathCompiler\obj\Debug\MathCompiler.exe
+D:\Courses\archive\ترم ۴۰۰۲\آز کامپایلر\MathCompiler\MathCompiler\obj\Debug\MathCompiler.pdb
